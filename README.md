@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?Aleeg0=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **Aleeg0/Aleeg0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
