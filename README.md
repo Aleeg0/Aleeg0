@@ -1,6 +1,6 @@
 ### Hi there 👋
 
----
+
 ### 🔧Languages Frameworks and Tools🔧
 
 <img alt="CSharp" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
@@ -15,8 +15,8 @@
 <img alt="gitHub" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
           
 <br/>
----
 <br/>
+---
 ### Some LeetCode Info 💻
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/Aleeg0/leetcode-stats)
 
