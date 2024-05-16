@@ -25,7 +25,6 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark)](https://github.com/Aleeg0/leetcode-stats)
 
 ---
-
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br/>
