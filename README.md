@@ -35,7 +35,7 @@
 ### Additional information 
 
 <details>
-  <summary>:zap: 📚Some LeetCode Info 💻 </summary>
+  <summary>:&#128125: 📚Some LeetCode Info 💻</summary>
   <br/>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark&show_icons=true&theme=aura" />
 </details>
@@ -43,7 +43,7 @@
 <!--
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark)](https://github.com/Aleeg0/leetcode-stats)
 -->
-<br/>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br/>
