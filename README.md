@@ -35,7 +35,7 @@
 ### Additional information 
 
 <details>
-  <summary> &#128125 Some LeetCode Info </summary>
+  <summary>&#128218; Some LeetCode Info</summary>
   <br/>
 
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark)](https://github.com/Aleeg0/leetcode-stats)
@@ -47,7 +47,7 @@
 -->
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>&#128125; GitHub Stats</summary>
   <br/>
   <img align="left" alt="Aleeg0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aleeg0&show_icons=true&theme=aura" />
 </details>
