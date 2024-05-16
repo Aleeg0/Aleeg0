@@ -24,6 +24,11 @@
 ### Some LeetCode Info 💻
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark)](https://github.com/Aleeg0/leetcode-stats)
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aleeg0&show_icons=true&theme=nightowl" />
+</details>
+
 
 <!--
 **Aleeg0/Aleeg0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
