@@ -5,11 +5,9 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/Aleeg0#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Aleeg0#gh-dark-mode-only)
 &nbsp;&nbsp;
-<!--
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/aleego-egorov-a6319830a#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aleego-egorov-a6319830a#gh-dark-mode-only)
 &nbsp;&nbsp;
--->
 
 ### 🔧Languages Frameworks and Tools🔧
 
@@ -37,14 +35,8 @@
 <details>
   <summary>&#128218; Some LeetCode Info</summary>
   <br/>
-
   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark)](https://github.com/Aleeg0/leetcode-stats)
-  
 </details>
-
-<!--
-
--->
 
 <details>
   <summary>&#128125; GitHub Stats</summary>
