@@ -38,6 +38,7 @@
   <summary> &#128125 Some LeetCode Info </summary>
   <br/>
   <img align="left" alt="Aleeg0's LeetCode Stats" src="https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark"/>
+  <br/>
 </details>
 
 <!--
