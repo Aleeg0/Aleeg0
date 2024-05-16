@@ -5,8 +5,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/Aleeg0#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Aleeg0#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/aleego-egorov-a6319830a#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aleego-egorov-a6319830a#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/aleeg0#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aleeg0#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### 🔧Languages Frameworks and Tools🔧
