@@ -36,12 +36,8 @@
   <summary>&#128218; Some LeetCode</summary>
   <a href="https://leetcode.com/u/Aleeg0/">
     <br/>
-    <img alt="Aleeg0's LeetCode stats" src="https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark"/>
-  <a/>
-    <br/>
-    
-  [![Aleeg0's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark)](https://leetcode.com/u/Aleeg0/)
-  
+    <img align="left" alt="Aleeg0's LeetCode stats" src="https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark"/>
+  <a/>  
 </details>
 
 <details>
