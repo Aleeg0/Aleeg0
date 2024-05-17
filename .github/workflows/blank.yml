@@ -15,7 +15,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: aleeg0
+          user: Aleeg0
           template: classic
-          plugin_isocalendar: yes
+          plugin_isocalendar: yes 
           plugin_isocalendar_duration: full-year
