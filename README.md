@@ -33,11 +33,11 @@
 ### Additional information 
 
 <details>
-  <summary>&#128218; Some LeetCode Info</summary>
-  <br/>
-  
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark)](https://github.com/Aleeg0/leetcode-stats)
-  
+  <summary>&#128218; Some LeetCode</summary>
+  <a href="https://leetcode.com/u/Aleeg0/">
+    <br/>
+    [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark)](https://github.com/Aleeg0/leetcode-stats)  
+  </a>
 </details>
 
 <details>
