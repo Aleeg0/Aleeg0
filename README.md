@@ -34,10 +34,8 @@
 
 <details>
   <summary>&#128218; Some LeetCode</summary>
-  <a >
     <br/>
-    [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-  </a>
+    [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 </details>
 
 <details>
