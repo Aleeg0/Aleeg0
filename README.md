@@ -1,18 +1,23 @@
 ## Hi there 👋
 
 ## Social Networks
-
-[![website](./img/twitter-light.svg)](https://twitter.com/Aleeg0#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Aleeg0#gh-dark-mode-only)
+<!-- 
+[![](./img/twitter-dark.svg)](https://twitter.com/Aleeg0#gh-dark-mode-only)
+[![](./img/twitter-light.svg)](https://twitter.com/Aleeg0#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/aleeg0#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aleeg0#gh-dark-mode-only)
+[![](./img/linkedin-dark.svg)](https://linkedin.com/in/aleeg0#gh-dark-mode-only)
+[![](./img/linkedin-light.svg)](https://linkedin.com/in/aleeg0#gh-light-mode-only)
 &nbsp;&nbsp;
+-->
+[<img alt="Twitter" align="left" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/twitter-dark.svg"/>](https://twitter.com/Aleeg0#gh-dark-mode-only)
+[<img alt="Twitter" align="left" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/twitter-light.svg"/>](https://twitter.com/Aleeg0#gh-light-mode-only)
+[<img alt="linkedin" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/linkedin-dark.svg"/>](https://linkedin.com/in/aleeg0#gh-dark-mode-only)
+[<img alt="linkedin" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/linkedin-light.svg"/>](https://linkedin.com/in/aleeg0#gh-light-mode-only)
 
 ### 🔧Languages Frameworks and Tools🔧
 
 [<img alt="CSharp" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>](https://en.wikipedia.org/wiki/C%2B%2B)
-[<img alt="CPlusPlus" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[<img alt="CPlusPlus" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [<img alt="Java" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>](https://en.wikipedia.org/wiki/Java_(programming_language))
 [<img alt="HTML" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>](https://en.wikipedia.org/wiki/CSS)
 [<img alt="CSS" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>](https://en.wikipedia.org/wiki/HTML)
@@ -36,7 +41,7 @@
 
 <details>
   <summary>&#128218; Some LeetCode</summary>
-  <a href="[github]">
+  <a href="https://github.com/Aleeg0">
     <br/>
     <img alt="Aleeg0's LeetCode stats" src="https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark"/>
   <a/>  
