@@ -38,9 +38,7 @@
     <br/>
     <img align="left" alt="Aleeg0's LeetCode stats" src="https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark"/>
   <a/>  
-</details>
-<br/>
-<details>
+    
   <summary>&#128125; GitHub Stats</summary>
   <a href="https://github.com/Aleeg0">
     <br/>
