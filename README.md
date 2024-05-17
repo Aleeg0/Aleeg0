@@ -36,9 +36,10 @@
   <summary>&#128218; Some LeetCode</summary>
   <a href="https://leetcode.com/u/Aleeg0/">
     <br/>
-    <img align="left" alt="Aleeg0's LeetCode stats" src="https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark"/>
+    <img alt="Aleeg0's LeetCode stats" src="https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark"/>
   <a/>  
-    
+</details>
+<details>
   <summary>&#128125; GitHub Stats</summary>
   <a href="https://github.com/Aleeg0">
     <br/>
