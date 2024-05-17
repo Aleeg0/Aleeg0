@@ -42,9 +42,10 @@
 
 <details>
   <summary>&#128125; GitHub Stats</summary>
-  <br/>
-  <img align="left" alt="Aleeg0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aleeg0&show_icons=true&theme=aura"/>
-  [![website]](https://github.com/Aleeg0)
+  <a href="https://github.com/Aleeg0">
+    <br/>
+    <img align="left" alt="Aleeg0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aleeg0&show_icons=true&theme=aura"/>
+  <a/>
 </details>
 
 
