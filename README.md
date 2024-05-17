@@ -34,7 +34,7 @@
 
 <details>
   <summary>&#128218; Some LeetCode</summary>
-  <a href="https://leetcode.com/u/Aleeg0/">
+  <a>
     <br/>
     [![Aleeg0's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
   </a>
