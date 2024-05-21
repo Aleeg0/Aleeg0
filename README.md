@@ -37,7 +37,7 @@
 <!-- LeetCode:START -->
 <details>
   <summary>&#128218; Some LeetCode</summary>
-  <a href="https://github.com/Aleeg0">
+  <a href="https://leetcode.com/u/Aleeg0/">
     <br/>
     <img alt="Aleeg0's LeetCode stats" src="https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark"/>
   <a/>  
