@@ -30,9 +30,6 @@
 [<img alt="Terminal" align="left" width="40px" style="padding:0 10px 10px 0;" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/terminal-dark.svg"/>](https://en.wikipedia.org/wiki/Windows_Terminal#gh-dark-mode-only)
 [<img alt="Terminal" align="left" width="40px" style="padding:0 10px 10px 0;" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/terminal-light.svg"/>](https://en.wikipedia.org/wiki/Windows_Terminal#gh-light-mode-only)
 <br/>
-
-###
-
 <hr/>
 <!-- Languages-Frameworkds-Tools:END -->
 
