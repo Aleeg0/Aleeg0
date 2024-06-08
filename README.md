@@ -16,7 +16,7 @@
 [<img alt="HTML" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>](https://en.wikipedia.org/wiki/HTML)
 [<img alt="CSS" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>](https://en.wikipedia.org/wiki/CSS)
 [<img alt="JavaScript" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>](https://en.wikipedia.org/wiki/JavaScript)
-[<img alt="JSON" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>](https://en.wikipedia.org/wiki/JavaScript)
+[<img alt="JSON" align="left" width="40px" style="padding-right:10px;" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/json.png"/>](https://en.wikipedia.org/wiki/JSON)
 [<img alt="DotNet" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>](https://en.wikipedia.org/wiki/.NET_Framework)
 [<img alt="PostgreSQL" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>](https://en.wikipedia.org/wiki/PostgreSQL)
 [<img alt="Docker" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>](https://en.wikipedia.org/wiki/Docker_(software))
