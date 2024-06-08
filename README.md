@@ -31,8 +31,8 @@
 [<img alt="Terminal" align="left" width="40px" style="padding-right:10px;" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/terminal-light.svg"/>](https://en.wikipedia.org/wiki/Windows_Terminal#gh-light-mode-only)
 <br/>
 <br/>
+<hr/>
 <!-- Languages-Frameworkds-Tools:END -->
----
 
 
 ### Additional information 
