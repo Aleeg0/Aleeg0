@@ -63,7 +63,7 @@
   <a href="https://leetcode.com/u/Aleeg0/">
     <br/>
     <picture>
-        <source srcset="https://leetcard.jacoblin.cool/Aleego?theme=light" media="(prefers-color-scheme: light)">
+        <source srcset="https://leetcard.jacoblin.cool/Aleeg0?theme=wtf" media="(prefers-color-scheme: light)">
         <img src="https://leetcard.jacoblin.cool/Aleeg0?theme=transparent" alt="leet-code-stats">
     </picture>
   </a>
@@ -75,7 +75,7 @@
   <a href="https://github.com/Aleeg0">
     <br/>
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=Aleeg0&show_icons=true&theme=catppuccin_latte" media="(prefers-color-scheme: light)">
+        <source srcset="https://github-readme-stats.vercel.app/api?username=Aleeg0&show_icons=true&theme=vue" media="(prefers-color-scheme: light)">
         <img src="https://github-readme-stats.vercel.app/api?username=Aleeg0&show_icons=true&theme=gotham" alt="leet-code-stats">
     </picture>
   </a>
