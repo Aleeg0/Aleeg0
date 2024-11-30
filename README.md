@@ -2,46 +2,58 @@
 
 <!-- Social-Networks-Block:START -->
 ## Social Networks
-[<img alt="Twitter" align="left" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/twitter-dark.svg"/>](https://twitter.com/Aleeg0#gh-dark-mode-only)
-[<img alt="Twitter" align="left" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/twitter-light.svg"/>](https://twitter.com/Aleeg0#gh-light-mode-only)
-[<img alt="linkedin" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/linkedin-dark.svg"/>](https://linkedin.com/in/aleeg0#gh-dark-mode-only)
-[<img alt="linkedin" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/linkedin-light.svg"/>](https://linkedin.com/in/aleeg0#gh-light-mode-only)
+[<img src="img/twitter-dark.svg" alt="twitter" height="26" style="padding-right: 3px;"/>](https://twitter.com/Aleeg0#gh-dark-mode-only)
+[<img src="img/twitter-light.svg" alt="twitter" height="26" style="padding-right: 3px;"/>](https://twitter.com/Aleeg0#gh-light-mode-only)
+[<img src="img/linkedin-dark.svg" alt="linked-in" height="26" style="padding-right: 3px;"/>](https://linkedin.com/in/aleeg0#gh-dark-mode-only)
+[<img src="img/linkedin-light.svg" alt="linked-in" height="26" style="padding-right: 3px;"/>](https://linkedin.com/in/aleeg0#gh-light-mode-only)
 <!-- Social-Networks-Block:END -->
 
 <!-- Languages-Frameworkds-Tools:START -->
 ### 🔧Languages Frameworks and Tools🔧
-[<img alt="CSharp" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>](https://en.wikipedia.org/wiki/C%2B%2B)
-[<img alt="CPlusPlus" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg"/>]
-[<img alt="Java" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>](https://en.wikipedia.org/wiki/Java_(programming_language))
-[<img alt="React" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>](https://en.wikipedia.org/wiki/React_(JavaScript_library))
-[<img alt="React" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>](https://en.wikipedia.org/wiki/Vue.js)
-[<img alt="TypeScript" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>](https://en.wikipedia.org/wiki/TypeScript)
-[<img alt="JavaScript" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>](https://en.wikipedia.org/wiki/JavaScript)
-[<img alt="CSS" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>](https://en.wikipedia.org/wiki/CSS)
-[<img alt="SASS" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>](https://en.wikipedia.org/wiki/Sass_(style_sheet_language))
-[<img alt="HTML" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>](https://en.wikipedia.org/wiki/HTML)
-[<img alt="JSON" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/json.png"/>](https://en.wikipedia.org/wiki/JSON)
-[<img alt="DotNet" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>](https://en.wikipedia.org/wiki/.NET_Framework)
-[<img alt="PostgreSQL" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>](https://en.wikipedia.org/wiki/PostgreSQL)
-[<img alt="Docker" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>](https://en.wikipedia.org/wiki/Docker_(software))
-[<img alt="Linux" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>](https://en.wikipedia.org/wiki/Linux)
-[<img alt="Kafka" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/kafka-dark.svg"/>](https://en.wikipedia.org/wiki/Apache_Kafka#gh-dark-mode-only)
-[<img alt="Kafka" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/kafka-light.svg"/>](https://en.wikipedia.org/wiki/Apache_Kafka#gh-light-mode-only)
-[<img alt="AndroidStudio" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>](https://en.wikipedia.org/wiki/Android_Studio)
-[<img alt="Git" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>](https://en.wikipedia.org/wiki/Git)
-[<img alt="GitHub" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/github-dark.svg" />](https://en.wikipedia.org/wiki/GitHub#gh-dark-mode-only)
-[<img alt="GitHub" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/github-light.svg" />](https://en.wikipedia.org/wiki/GitHub#gh-light-mode-only)
-[<img alt="Terminal" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/terminal-dark.svg"/>](https://en.wikipedia.org/wiki/Windows_Terminal#gh-dark-mode-only)
-[<img alt="Terminal" align="left" width="40px" style="padding-right:10px; margin-bottom: 10px;" src="https://github.com/Aleeg0/Aleeg0/blob/main/img/terminal-light.svg"/>](https://en.wikipedia.org/wiki/Windows_Terminal#gh-light-mode-only)
-<br/>
-<br/>
+<!-- Languages:START -->
 
+<h3>
+    Languages
+    <img src="images/code.png" alt="" width="32" style="vertical-align:middle;"/>
+</h3>
+
+[<img src="images/java-script.png" alt="javaScript" width="52" height="52"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="images/type-script.png" alt="typeScript" width="52" height="52"/>](https://www.typescriptlang.org/docs/)
+[<img src="images/html.png" alt="html" width="52" height="52"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="images/css.png" alt="css" width="52" height="52"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="images/json.png" alt="java" width="52" height="52"/>](https://www.json.org/json-en.html)
+[<img src="images/c-sharp.png" alt="c-sharp" width="52" height="52"/>](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/)
+[<img src="images/c-plus-plus.png" alt="c-plus-plus" width="52" height="52"/>](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
+[<img src="images/java.png" alt="java" width="52" height="52"/>](https://docs.oracle.com/javase/8/docs/technotes/guides/language/)
+
+<!-- Languages:END -->
+<!-- Frameworks:START -->
+<h3>
+    Frameworks
+    <img src="images/framework.png" alt="" width="32" style="vertical-align:middle;"/>
+</h3>
+
+[<img src="images/react.png" alt="react" height="40" style="padding-right:10px;"/>](https://react.dev/)
+[<img src="images/redux.png" alt="redux" height="40" style="padding-right:10px;"/>](https://redux-toolkit.js.org/)
+[<img src="images/node-js-dark.png" alt="node-js" height="40" style="padding-right:10px;"/>](https://nodejs.org/en#gh-light-mode-only)
+[<img src="images/node-js-light.png" alt="node-js" height="40" style="padding-right:10px;"/>](https://nodejs.org/en#gh-dark-mode-only)
+[<img src="images/nest-js.png" alt="nest-js" height="40" style="padding-right:10px;" />](https://nestjs.com/)
+[<img src="images/sass.png" alt="sass" height="40" style="padding-right:10px;" />](https://sass-lang.com/)
+[<img src="images/postgresql.png" alt="postgre-sql" height="40" style="padding-right:10px;"/>](https://www.postgresql.org/)
+[<img src="images/mongodb-dark.png" alt="mongo-db" height="40" style="padding-right:10px;"/>](https://www.mongodb.com/#gh-light-mode-only)
+[<img src="images/mongodb-light.png" alt="mongo-db" height="40" style="padding-right:10px;"/>](https://www.mongodb.com/#gh-dark-mode-only)
+[<img src="images/docker-dark.png" alt="docker" height="40px" style="padding-right:10px;"/>](https://www.docker.com/#gh-light-mode-only)
+[<img src="images/docker-light.png" alt="docker" height="40px" style="padding-right:10px;"/>](https://www.docker.com/#gh-dark-mode-only)
+[<img src="images/npm.png" alt="docker" height="40px" style="padding-right:10px;"/>](https://www.npmjs.com/)
+[<img src="images/git.png" alt="git" height="40px" style="padding-right:10px;"/>](https://en.wikipedia.org/wiki/Git)
+[<img src="images/linux.png" alt="linux" height="40px" style="padding-right:10px;"/>](https://www.linux.org/)
+[<img src="images/git-lab.png" alt="git-lab" height="40px" style="padding-right:10px;"/>](https://about.gitlab.com/)
+[<img src="images/git-hub-dark.png" alt="git-hub" height="40px" style="padding-right:10px;"/>](https://github.com/Aleeg0#gh-light-mode-only)
+[<img src="images/git-hub-light.png" alt="git-hub" height="40px" style="padding-right:10px;"/>](https://github.com/Aleeg0#gh-dark-mode-only)
+<!-- Frameworks:END -->
 <!-- Languages-Frameworkds-Tools:END -->
 ###
-
 <hr/>
-
-###
 
 ### Additional information 
 <!-- LeetCode:START -->
@@ -50,8 +62,11 @@
   <summary>&#128218; Some LeetCode</summary>
   <a href="https://leetcode.com/u/Aleeg0/">
     <br/>
-    <img alt="Aleeg0's LeetCode stats" src="https://leetcode-stats-six.vercel.app/api?username=Aleeg0&theme=dark"/>
-  <a/>  
+    <picture>
+        <source srcset="https://leetcard.jacoblin.cool/Aleego?theme=light" media="(prefers-color-scheme: light)">
+        <img src="https://leetcard.jacoblin.cool/Aleeg0?theme=transparent" alt="leet-code-stats">
+    </picture>
+  </a>
 </details>
 <!-- LeetCode:END -->
 <!-- GitHubStats:START -->
@@ -60,7 +75,7 @@
   <a href="https://github.com/Aleeg0">
     <br/>
     <img alt="Aleeg0's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aleeg0&show_icons=true&theme=aura"/>
-  <a/>
+  </a>
 </details>
 <!-- GitHubStats:END -->
 
