@@ -76,7 +76,7 @@
     <br/>
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=Aleeg0&show_icons=true&theme=catppuccin_latte" media="(prefers-color-scheme: light)">
-        <img src="https://github-readme-stats.vercel.app/api?username=Aleeg0&show_icons=true&theme=aura" alt="leet-code-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Aleeg0&show_icons=true&theme=gotham" alt="leet-code-stats">
     </picture>
   </a>
 </details>
