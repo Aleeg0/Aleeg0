@@ -33,8 +33,8 @@
     <img src="images/framework.png" alt="" width="32"/>
 </h3>
 
-[<img src="images/frameworks/react.png" alt="react" height="40" hspace="5"/>](https://react.dev/)
-[<img src="images/frameworks/redux.png" alt="redux" height="40" hspace="5"/>](https://redux-toolkit.js.org/)
+[<img src="images/frameworks/react.png" alt="react" height="40" width="45" hspace="5"/>](https://react.dev/)
+[<img src="images/frameworks/redux.png" alt="redux" height="40" width="45" hspace="5"/>](https://redux-toolkit.js.org/)
 [<img src="images/frameworks/node-js-dark.png" alt="node-js" height="40" hspace="5"/>](https://nodejs.org/en#gh-light-mode-only)
 [<img src="images/frameworks/node-js-light.png" alt="node-js" height="40" hspace="5"/>](https://nodejs.org/en#gh-dark-mode-only)
 [<img src="images/frameworks/nest-js.png" alt="nest-js" height="40" hspace="5" />](https://nestjs.com/)
